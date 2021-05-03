@@ -25,9 +25,9 @@ class MyView1 extends PolymerElement {
       <div class="card">
         <div class="circle">1</div>
         <h1>View One</h1>
-        <p>Ut labores minimum atomorum pro. Laudem tibique ut has.</p>
+        <p>Welcome to Mom's magic</p>
         <p>
-          NAVEEEED
+          Tomorrow breakfast is uppma, beetroot curry with chappati
         </p>
       </div>
     `;
